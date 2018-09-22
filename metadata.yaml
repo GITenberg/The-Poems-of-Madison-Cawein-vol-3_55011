@@ -6,6 +6,9 @@ contributor:
     birthdate: 1870
     gutenberg_agent_id: '42144'
     url: http://www.gutenberg.org/2009/agents/42144
+covers:
+- cover_type: archival
+  image_path: 55011-h/images/cover.jpg
 creator:
   author:
     agent_name: Cawein, Madison Julius
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2531
     wikipedia: http://en.wikipedia.org/wiki/Madison_Julius_Cawein
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55011#The-Poems-of-Madison-Cawein-vol-3
 gutenberg_issued: '2017-06-30'
 gutenberg_type: Text
 identifiers:
